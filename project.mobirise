@@ -407,6 +407,14 @@
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#41a85f"
+            },
+            "SPAN": {
+              "color": "#232323"
+            }
+          },
           "_anchor": "msg-box5-2",
           "_params": {
             "imageSize": 50,
@@ -449,15 +457,7 @@
           },
           "title": "<span style=\"font-weight: normal;\">Abril Lozada biography</span>",
           "text": "<b>hOI! I'm Abril (no duh) and this is my bio I guess. To start off with the obvious, I am a HUGE fan of the RPG video game undertale! (backround... logo.... logo at the bottom of the page....) but I also really enjoy to draw! To make a video games you also need to be atleast a decent...</b>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Biography.html\" data-toolbar=\"-mbrBtnMove\">Full biography</a>",
-          "_styles": {
-            "H3": {
-              "color": "#41a85f"
-            },
-            "SPAN": {
-              "color": "#232323"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Biography.html\" data-toolbar=\"-mbrBtnMove\">Full biography</a>"
         },
         {
           "_styles": {
@@ -548,7 +548,7 @@
           },
           "title3": "100 Subs Challange",
           "subtitle3": "<b>Get 100 Subs on youtube channel</b>",
-          "caption3": "<b>Getting 100 subs in youtube is NOT easy, trust me. I have a youtube channel (which I will not say what the name is) and I really do want only 100 subs xD because in youtube 100 subs is nothing, just ask pewdiepie (the guy has 50,000,000 subs...) (BTW subs means subscribers xD)</b>",
+          "caption3": "<b>Getting 100 subs in youtube is NOT easy, trust me. I have a youtube channel (which I will not say what the name is) and I really do want only 100 subs xD, but really in youtube 100 subs is nothing, just ask pewdiepie (the guy has 50,000,000 subs...) (BTW subs means subscribers xD)</b>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
