@@ -468,8 +468,8 @@
               "font-size": "16px"
             },
             ".iconbox": {
-              "background-color": "#41a85f",
-              "border-color": "#41a85f"
+              "background-color": "#17f457",
+              "border-color": "#17f457"
             }
           },
           "_tags": [
@@ -478,13 +478,13 @@
           "_name": "features4",
           "_anchor": "features4-3",
           "_params": {
-            "iconsBgColor": "#41a85f",
+            "iconsBgColor": "#17f457",
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1422651973727-50f085c0b26f-2000x1339.jpg",
-            "bgColor": "#41a85f",
+            "bgColor": "#17f457",
             "bgColorRadio": true,
             "bgVideo": {
               "width": 1280,
@@ -546,9 +546,9 @@
               "color": "black"
             }
           },
-          "title3": "Web Fonts",
-          "subtitle3": "<b>Google has a highly exhaustive list of fonts</b>",
-          "caption3": "<b>Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.</b>",
+          "title3": "100 Subs Challange",
+          "subtitle3": "<b>Get 100 Subs on youtube channel</b>",
+          "caption3": "<b>Getting 100 subs in youtube is NOT easy, trust me. I have a youtube channel (which I will not say what the name is) and I really do want only 100 subs xD because in youtube 100 subs is nothing, just ask pewdiepie (the guy has 50,000,000 subs...) (BTW subs means subscribers xD)</b>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
@@ -605,7 +605,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#f3c649"
+            "bgColor": "#f5f764"
           },
           "text": "<p><b>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools <a href=\"http://google.com/\">available</a> today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</b></p>"
         },
@@ -618,7 +618,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#41a85f"
+            "bgColor": "#17f457"
           },
           "text1": "<p><b>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</b></p>",
           "text2": "<p><b>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</b></p>"
