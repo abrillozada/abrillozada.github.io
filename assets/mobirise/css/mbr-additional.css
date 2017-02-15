@@ -567,6 +567,10 @@ h6,
 #header1-1b .mbr-section-lead {
   color: #000000;
 }
+#header3-1e .mbr-section-title,
+#header3-1e .mbr-section-subtitle {
+  text-align: center;
+}
 #ext_menu-17 .hide-buttons .nav-btn {
   display: none !important;
 }
