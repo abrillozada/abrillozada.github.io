@@ -2289,8 +2289,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/marvel-symbols-6-2000x1973-1-800x789.png",
-                "image": "@PROJECT_PATH@/assets/images/marvel-symbols-6-2000x1973-1.png",
+                "thumb": "@PROJECT_PATH@/assets/images/abril-lozada-2000x2000-1-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/abril-lozada-2000x2000-1.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -2299,8 +2299,48 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/batman-logo-1-1-800x472.png",
-                "image": "@PROJECT_PATH@/assets/images/batman-logo-1-1.gif",
+                "thumb": "@PROJECT_PATH@/assets/images/im-done-this-took-a-week-holy-im-done-yes-im-done-yes-im-done-dooneeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee-2000x2103-1-800x841.jpg",
+                "image": "@PROJECT_PATH@/assets/images/im-done-this-took-a-week-holy-im-done-yes-im-done-yes-im-done-dooneeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee-2000x2103-1.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/abril-lozada-12-inch-thing-2000x3714-1-800x1485.jpg",
+                "image": "@PROJECT_PATH@/assets/images/abril-lozada-12-inch-thing-2000x3714-1.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/abril-lozada-cd-label-2000x2000-1-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/abril-lozada-cd-label-2000x2000-1.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/new-with-the-right-size-2000x1000-1-800x400.jpg",
+                "image": "@PROJECT_PATH@/assets/images/new-with-the-right-size-2000x1000-1.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/abril-lozada-2-2000x1000-1-800x400.jpg",
+                "image": "@PROJECT_PATH@/assets/images/abril-lozada-2-2000x1000-1.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
