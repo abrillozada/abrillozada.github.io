@@ -23,7 +23,8 @@
     "versionFirst": "3.10.5",
     "uniqCompNum": 57,
     "versionPublish": "3.10.5",
-    "path": "@PROJECT_PATH@"
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "123D.html": {
@@ -585,7 +586,9 @@
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+              "width": 1280,
+              "height": 720,
+              "url": "https://www.youtube.com/embed/wskKeph7GpI?rel=0&amp;showinfo=0&autoplay=0&loop=0"
             },
             "bgVideoRadio": true,
             "overlay": true,
