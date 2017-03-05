@@ -477,6 +477,9 @@ h6,
 
 
 
+#header1-1l .mbr-section-lead {
+  color: #000000;
+}
 #ext_menu-1 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -540,12 +543,6 @@ h6,
 #ext_menu-1 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
-#msg-box5-2 H3 {
-  color: #41a85f;
-}
-#msg-box5-2 SPAN {
-  color: #232323;
-}
 #features4-3 .card-subtitle {
   color: #000000;
   font-family: 'Raleway', sans-serif;
@@ -577,6 +574,10 @@ h6,
 #header3-1e .mbr-section-title,
 #header3-1e .mbr-section-subtitle {
   text-align: center;
+}
+#social-buttons4-1m .mbr-section-title,
+#social-buttons4-1m .btn-social {
+  color: #fff;
 }
 #ext_menu-17 .hide-buttons .nav-btn {
   display: none !important;
