@@ -680,7 +680,7 @@
             "overlayColor": "#222"
           },
           "text": "FOLLOW ME!",
-          "icons": "  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-google\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a>       "
+          "icons": "  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://aboutme.google.com/u/1/#profile_photo\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-google\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UC7eooQquezcwMZDhQBLkZZw\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a>       "
         },
         {
           "_inherit": "menu",
