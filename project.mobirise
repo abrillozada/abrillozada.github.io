@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NewSite-01-25_1657",
-    "currentPage": "contact.html",
+    "currentPage": "landingpage.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -916,7 +916,7 @@
           "title": "CONTACT FORM",
           "subtitle": "Please fill out this form to contact me and I'll answer you when I get the chance",
           "form": {
-            "action": "alozada@miamiartsstudio.com",
+            "action": "abrillozadaarriola@live.com",
             "alerts": {
               "success": "Thanks for filling out form! (｀･ω･´) ｂ"
             },
