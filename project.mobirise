@@ -338,7 +338,7 @@
             "paddingBottom": 2,
             "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/images-1-2000x1215.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/images%20(1)-2000x1215.jpg",
             "bgColor": "#ffffdb",
             "bgColorRadio": true,
             "bgVideo": {
@@ -904,7 +904,7 @@
             "paddingBottom": 3,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/images-1-2000x1215.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/chara-2000x1142-2.png",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
@@ -916,7 +916,7 @@
           "title": "CONTACT FORM",
           "subtitle": "Please fill out this form to contact me and I'll answer you when I get the chance",
           "form": {
-            "action": "alozada@miamiartsstudio.com",
+            "action": "alozada@miamiartsstudio.net",
             "alerts": {
               "success": "Thanks for filling out form! (｀･ω･´) ｂ"
             },
@@ -2277,6 +2277,16 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/logo-number-2-number-2-xd-2000x2000-1-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/logo-number-2-number-2-xd-2000x2000-1.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/abril-lozada-jpg-30-2000x1600-800x640.jpg",
+                "image": "@PROJECT_PATH@/assets/images/abril-lozada-jpg-30-2000x1600.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
