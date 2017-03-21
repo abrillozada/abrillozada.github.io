@@ -644,6 +644,15 @@ h6,
 }
 
 
+#form1-1n .form-control-label {
+  color: #232323;
+}
+#form1-1n SMALL {
+  color: #ffffff;
+}
+#form1-1n .mbr-section-title {
+  color: #ffffff;
+}
 #ext_menu-1g .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -706,15 +715,6 @@ h6,
 #ext_menu-1g .link[aria-expanded="true"],
 #ext_menu-1g .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
-}
-#form1-x .form-control-label {
-  color: #ffffff;
-}
-#form1-x SMALL {
-  color: #ffffff;
-}
-#form1-x .mbr-section-title {
-  color: #ffffff;
 }
 
 
