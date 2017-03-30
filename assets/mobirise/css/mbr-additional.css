@@ -1152,16 +1152,15 @@ h6,
 }
 
 
+#msg-box8-1o .mbr-section-title,
+#msg-box8-1o p {
+  color: #fff;
+}
 #header1-1b .mbr-section-title {
   color: #000000;
 }
 #header1-1b .mbr-section-lead {
   color: #000000;
-}
-#content8-1f .mbr-section-title,
-#content8-1f p {
-  text-align: right;
-  color: #fff;
 }
 #header3-1e .mbr-section-title,
 #header3-1e .mbr-section-subtitle {
