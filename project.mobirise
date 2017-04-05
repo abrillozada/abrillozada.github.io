@@ -3251,7 +3251,7 @@
             "showTitle": false,
             "showText": false
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">VIEW VIDEO TUTORIAL</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.youtube.com/watch?v=B-CC3Hb3ghY\" data-toolbar=\"-mbrBtnMove\">Watch my story!</a>",
           "title": "TRENDY WEBSITE BLOCKS",
           "text": "Cut down the development time with drag-and-drop website builder."
         },
