@@ -1218,10 +1218,6 @@ h6,
 }
 
 
-#msg-box8-1o .mbr-section-title,
-#msg-box8-1o p {
-  color: #fff;
-}
 #header1-1b .mbr-section-title {
   color: #000000;
 }
@@ -1234,13 +1230,25 @@ h6,
 #header6-26 .mbr-section-text {
   color: #565656;
 }
+#header3-2d .mbr-section-title,
+#header3-2d .mbr-section-subtitle {
+  text-align: center;
+}
 #header3-1e .mbr-section-title,
 #header3-1e .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-2c .mbr-section-title,
+#header3-2c .mbr-section-subtitle {
   text-align: center;
 }
 #social-buttons4-1m .mbr-section-title,
 #social-buttons4-1m .btn-social {
   color: #fff;
+}
+#header3-2a .mbr-section-title,
+#header3-2a .mbr-section-subtitle {
+  text-align: center;
 }
 #contacts3-1s LI {
   color: #ffffff;
