@@ -1224,11 +1224,9 @@ h6,
 #header1-1b .mbr-section-lead {
   color: #000000;
 }
-#header6-26 .mbr-section-title {
-  color: #ffffff;
-}
-#header6-26 .mbr-section-text {
-  color: #565656;
+#msg-box6-2f .mbr-section-title,
+#msg-box6-2f .lead p {
+  color: #fff;
 }
 #header3-2d .mbr-section-title,
 #header3-2d .mbr-section-subtitle {
@@ -1250,10 +1248,10 @@ h6,
 #header3-2a .mbr-section-subtitle {
   text-align: center;
 }
-#contacts3-1s LI {
+#contacts3-1v LI {
   color: #ffffff;
 }
-#contacts3-1s P {
+#contacts3-1v P {
   color: #ffffff;
 }
 #ext_menu-17 .hide-buttons .nav-btn {
